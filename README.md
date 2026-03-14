@@ -1,5 +1,7 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
-
+## Name : Raghu Ram VR
+## Reg No :212224220075
+## Date : 14/03/2026
 ## AIM:
 To Implement ELGAMAL ALGORITHM
 
